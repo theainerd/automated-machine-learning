@@ -1,2 +1,28 @@
 # automated-machine-learning
-:star2: :collision: Technical Strategy for automating Machine Learning Tasks
+
+# AutoML Tools
+
++ Auto-WEKA | `Java` | `Open Source` | [`Code`](https://github.com/automl/autoweka)
++ Hyperopt | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt)
++ Hyperopt-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/hyperopt/hyperopt-sklearn)
++ SigOpt | `Python` | `Commercial` | [`Link`](https://sigopt.com/)
++ SMAC3 | `Python` | `Open Source` | [`Code`](https://github.com/automl/SMAC3)
++ Advisor | `Python` | `Open Source` | [`Code`](https://github.com/tobegit3hub/advisor)
++ Auger | `Python` | `Commercial` | [`Link`](https://auger.ai)
++ auto-sklearn | `Python` | `Open Source` | [`Code`](https://github.com/automl/auto-sklearn)
++ Auto-Keras | `Python` | `Open Source` | [`Code`](https://github.com/jhfjhfj1/autokeras)
++ RoBO | `Python` | `Open Source` | [`Code`](https://github.com/automl/RoBO)
++ BayesianOptimization | `Python` | `Open Source` | [`Code`](https://github.com/fmfn/BayesianOptimization)
++ Scikit-Optimize | `Python` | `Open Source` | [`Code`](https://github.com/scikit-optimize/scikit-optimize)
++ HyperBand | `Python` | `Open Source` | [`Code`](https://github.com/zygmuntz/hyperband)
++ BayesOpt | `C++` | `Open Source` | [`Code`](https://github.com/rmcantin/bayesopt)
++ Optunity | `Python` | `Open Source` | [`Code`](https://github.com/claesenm/optunity)
++ TPOT | `Python` | `Open Source` | [`Code`](https://github.com/rhiever/tpot)
++ Cloud AutoML | `Python` | `Commercial`| [`Link`](https://cloud.google.com/automl/)
++ H2O | `Python` | `Commercial` | [`Link`](https://www.h2o.ai/)
++ DataRobot | `Python` | `Commercial` | [`Link`](https://www.datarobot.com/)
++ MLJAR | `Python` | `Commercial` | [`Link`](https://mljar.com/)
++ MateLabs | `Python` | `Commercial` | [`Link`](http://matelabs.in/)
++ FAR-HO | `Python` | `Open Source` | [`Code`](https://github.com/lucfra/FAR-HO)
++ TransmogrifAI | `Scala` | `Open Source` | [`Code`](https://github.com/salesforce/TransmogrifAI)
++ DEvol | `Python` | `Open Source` | [`Code`](https://github.com/joeddav/devol)
